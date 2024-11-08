@@ -11,7 +11,7 @@ Lenovo V330-15IKB的95%完美黑果EFI（独显除外）
 ![Sonoma.png](https://github.com/r1i1na/Lenovo-V330-15IKB-Hackintosh-EFI_OpenCore/blob/main/Oper.PNG)
 
 > [!NOTE]
-> 若您更改了硬件，请自行修改EFI，仅在下列情况中成功运行。
+> 若您更改了硬件，请自行修改EFI，仅能保证在以下配置中成功运行。
 
 EFI文件中包括了[Airportitlwm](https://github.com/OpenIntelWireless/itlwm)，请根据实际系统版本来替换其中的kext版本。
 
