@@ -33,8 +33,8 @@ Wireless network card: Intel Dual-Band AC 3165 (Bluetooth and Wi-Fi are availabl
 
 Camera: Integrated Camera
 
-Drive status:
+### Drive status:
 
-95% of the functions are normal.
+95% of the functions are operational.
 
 `Discrete graphics card` cannot be driven. Limited by the working principle of Mac discrete graphics card, this is unsolvable.
