@@ -1,3 +1,5 @@
+语言 / Languages：简体中文｜<a href="./README_en.md">English</a>
+
 # Lenovo-V330-15IKB-Hackintosh-EFI_OpenCore
 
 Lenovo V330-15IKB的95%完美黑果 EFI（独显除外）
