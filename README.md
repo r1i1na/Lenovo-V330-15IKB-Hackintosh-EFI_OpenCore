@@ -1,7 +1,5 @@
 # Lenovo-V330-15IKB-Hackintosh-EFI_OpenCore
 
-## EFI还在另外一台PC上，等回国之后再补。:)
-
 Lenovo V330-15IKB的95%完美黑果EFI（独显除外）
 
 在`Big Sur以上`系统测试能够正常启动，功能正常。11.0以下自测。
