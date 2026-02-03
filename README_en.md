@@ -29,7 +29,7 @@ Intel UHD Graphics 620<br>~~AMD Radeon 530~~ (Unable to drive)
 
 Wired network card: Realtek GBE PCIe Family Controller
 
-Wireless network card: Intel Dual-Band AC 3165 (Bluetooth and Wi-Fi are available, but relay, etc. cannot be used)
+Wireless network card: Intel Dual-Band AC 3165 (Bluetooth and Wi-Fi are available, but Handoff, etc. cannot be used)
 
 Camera: Integrated Camera
 
